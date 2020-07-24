@@ -4,6 +4,7 @@
 
 int main(int argc, char** argv) {
 	printf("hello-world\n");
-		printf("My name is Jinkyu Choi");
+		printf("My name is Jinkyu Choi\n");
+			printf("Good Bye!");
 	return 0;
 }
